@@ -9,7 +9,7 @@ I'm exploring real-time systems, data visualization, and the human stories behin
 | Project | What it does |
 | --- | --- |
 | ⚽ [PitchPulse AI](https://github.com/Faruk-Icn/PitchPulse-AI) | Built for the [Inside the Game Developer Hackathon](https://innovationstudio.microsoft.com/hackathons/insidethegamedeveloperhackathon). Turns synthetic football match events into live tactical overlays for analysts and a personalized, multilingual fan feed. [Studio preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/studio-demo.png) · [Fan feed preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/fan-demo.png) |
-| 📊 [TaskTrooper Telemetry](https://github.com/makifbaysal/tasktrooper-telemetry) | A team project for the Meta hackathon: an observability dashboard for service health, incidents, logs, and code insights. I worked on the dashboard experience and AI-assisted explain and enrichment workflows, with a local mock mode for development. |
+| 📊 [TaskTrooper Telemetry](https://github.com/makifbaysal/tasktrooper-telemetry) | A team project for the [Meta Global AI Developer Hackathon](https://dev.meta.ai/events/global-hackathon): an observability dashboard for service health, incidents, logs, and code insights. I worked on the dashboard experience and AI-assisted explain and enrichment workflows, with a local mock mode for development. |
 | 🧩 [GML](https://github.com/Faruk-Icn/GML) | An open-source Luau framework for loading Roblox modules with `Init` and `Start` hooks, plus utilities for signals, remotes, cleanup, timers, and more. |
 | 🌸 [Dear Data: Mood Garden](https://github.com/Faruk-Icn/Dear-Data-100-Project) | A creative visualization of where, why, and how long I wait—and how those moments affect my mood. |
 
