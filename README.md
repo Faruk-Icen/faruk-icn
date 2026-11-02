@@ -10,7 +10,7 @@ I'm exploring real-time systems, data visualization, and the human stories behin
 | --- | --- |
 | ⚽ [PitchPulse AI](https://github.com/Faruk-Icn/PitchPulse-AI) | Built for the [Inside the Game Developer Hackathon](https://innovationstudio.microsoft.com/hackathons/insidethegamedeveloperhackathon). Turns synthetic football match events into live tactical overlays for analysts and a personalized, multilingual fan feed. [Studio preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/studio-demo.png) · [Fan feed preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/fan-demo.png) |
 | 📊 [TaskTrooper Telemetry](https://github.com/makifbaysal/tasktrooper-telemetry) | A team project for the [Meta Global AI Developer Hackathon](https://dev.meta.ai/events/global-hackathon): an observability dashboard for service health, incidents, logs, and code insights. I worked on the dashboard experience and AI-assisted explain and enrichment workflows, with a local mock mode for development. |
-| 🧩 [GML](https://github.com/Faruk-Icn/GML) | An open-source Luau framework for loading Roblox modules with `Init` and `Start` hooks, plus utilities for signals, remotes, cleanup, timers, and more. |
+| 🧩 [GMLK](https://github.com/Faruk-Icn/GML) | An open-source Luau framework for loading Roblox modules with `Init` and `Start` hooks, plus utilities for signals, remotes, cleanup, timers, and more. |
 | 🌸 [Dear Data: Mood Garden](https://github.com/Faruk-Icn/Dear-Data-100-Project) | A creative visualization of where, why, and how long I wait—and how those moments affect my mood. |
 
 ## Tools I use
@@ -20,10 +20,12 @@ I'm exploring real-time systems, data visualization, and the human stories behin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=robloxstudio&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-006699?style=flat)
 
 **Frameworks, platforms & workflow**
 
@@ -31,7 +33,10 @@ I'm exploring real-time systems, data visualization, and the human stories behin
 ![React](https://img.shields.io/badge/React-149ECA?style=flat&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-2C3E50?style=flat&logo=socketdotio&logoColor=white)
+![Rojo](https://img.shields.io/badge/Rojo-E2231A?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ## GitHub activity
