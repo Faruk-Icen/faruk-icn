@@ -53,7 +53,6 @@ I'm exploring real-time systems, data visualization, and the human stories behin
 </details>
 
 [![Profile views](https://komarev.com/ghpvc/?username=Faruk-Icn&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
-
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Faruk-Icn/badge.svg)](https://hub.xerj.org/contributors/Faruk-Icn)
 
 ## Find me
